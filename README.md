@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe 4×4 AI
+# 🎮 Deep Tic-Tac-Toe 4×4 — Unbeatable AI with Minimax & Alpha–Beta Pruning
 
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
